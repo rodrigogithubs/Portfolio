@@ -1,7 +1,8 @@
 div{
     background-color: rgb(56, 77, 62);
+    margin: -0.75em; 
+    overflow-x: hidden;
 }
-
 app-social{
     float: right;
 margin-top: 25px;
