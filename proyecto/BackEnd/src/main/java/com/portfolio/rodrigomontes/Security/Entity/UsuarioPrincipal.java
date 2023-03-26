@@ -9,5 +9,5 @@ package com.portfolio.rodrigomontes.Security.Entity;
  * @author Rodrigo
  */
 public class UsuarioPrincipal {
-    
-}
+
+    }
